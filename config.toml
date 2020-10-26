@@ -1,0 +1,7 @@
+baseURL = "https://tapioka2107.github.io"
+languageCode = "en-us"
+title = "My New Hugo Site"
+contentDir = "post"
+disableKinds = ["RSS", "sitemap"]
+[taxonomies]
+tag = "tags"
